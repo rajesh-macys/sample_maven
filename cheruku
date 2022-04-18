@@ -1,5 +1,0 @@
-
-hello
-git reset HEAD^ will move you one commit back. ie. just before you made the commit onto branch_A. Now switch to branch_B using git checkout branch_B. Then git add the files you want to commit and then git commit them. They will be on branch_B.
-
-point of time
